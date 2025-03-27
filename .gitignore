@@ -26,16 +26,6 @@ env/
 venv/
 ENV/
 
-# Bash
-*.sh
-*.bash
-*.bashrc
-*.bash_profile
-*.bash_history
-*.bash_logout
-*.bash_completion
-*.bash_completion.d/
-
 # JavaScript
 node_modules/
 npm-debug.log*
