@@ -72,5 +72,3 @@ osascript <<EOF
         keystroke "]"
     end tell
 EOF
-
-echo "✅ Pasted ticket link" 
